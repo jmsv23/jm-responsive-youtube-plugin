@@ -1,4 +1,4 @@
-jm-responsive-youtube-plugin
+jm-youtube-fluid
 =========================
 
 youtube video responsive jquery plugin
